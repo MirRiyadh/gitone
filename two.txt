@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-two.hyper.sound
-
-=======
-two.hyper. its like a goal
->>>>>>> main
-
 arketa dui
+dui
+
